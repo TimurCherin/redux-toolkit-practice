@@ -1,0 +1,21 @@
+.form {
+    margin-bottom: 20px;
+  }
+  
+  .input {
+    padding: 10px;
+    margin-right: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    width: 300px;
+  }
+  
+  .buttonAdd {
+    padding: 10px 20px;
+    background-color: #2dd171;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
